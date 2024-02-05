@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/unlikinglyyt" target="blank"><img src="https://img.shields.io/twitter/follow/unlikinglyyt?logo=twitter&style=for-the-badge" alt="unlikinglyyt" /></a> </p>
 
-- 🌱 I’m currently learning **Python & Fishnet Networking**
+- 🌱 I’m currently learning: **Python & Fishnet Networking**
 
-- 💬 Ask me about **Unity, C#, Fishnet**
+- 💬 Ask me about: **Unity, C#, Fishnet**
 
-- 📫 How to reach me **ryanjbell100@gmail.com**
+- 📫 How to reach me: **ryanjbell100@gmail.com**
 
-- 📄 Know about my experiences [https://fuchsia-ricki-4.tiiny.site/](https://fuchsia-ricki-4.tiiny.site/)
+- 📄 Feel free to read my resume: [https://fuchsia-ricki-4.tiiny.site/](https://fuchsia-ricki-4.tiiny.site/)
 
-- ⚡ Fun fact **I have been playing games since I was 10 years old.**
+- ⚡ Fun fact: **I have been playing games since I was 10 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
