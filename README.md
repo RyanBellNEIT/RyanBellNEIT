@@ -1,4 +1,6 @@
+<p align="center">
 [![MasterHead](https://i.imgur.com/5qGnAHV.gif)](https://RyanBellNEIT.io)
+</p>
 <h1 align="center">Hi 👋, I'm Ryan Bell</h1>
 <h3 align="center">A passionate game developer from Boston</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif">
