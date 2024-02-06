@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/unlikinglyyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unlikinglyyt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ryan-bell-03403b289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-bell-03403b289" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/unlikingly5116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unlikingly5116" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/unlikingly5116](https://www.youtube.com/channel/UCdsqxe3d6qrp0eQ_m4UsWGg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unlikingly5116" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/unlikingly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unlikingly" height="30" width="40" /></a>
 </p>
 
