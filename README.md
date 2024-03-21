@@ -1,15 +1,13 @@
 [![MasterHead](https://i.imgur.com/5qGnAHV.gif)](https://RyanBellNEIT.io)
 <h1 align="center">Hi 👋, I'm Ryan Bell</h1>
-<h3 align="center">A passionate game developer from Boston</h3>
+<h3 align="center">A passionate game developer/software developer from Boston</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanbellneit&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbellneit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/unlikinglyyt" target="blank"><img src="https://img.shields.io/twitter/follow/unlikinglyyt?logo=twitter&style=for-the-badge" alt="unlikinglyyt" /></a> </p>
 
-- 🌱 I’m currently learning: **Python & Fishnet Networking**
-
-- 💬 Ask me about: **Unity, C#, Fishnet**
+- 🌱 I’m currently learning: **Python & MySQL**
 
 - 📫 How to reach me: **ryanjbell100@gmail.com**
 
