@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/unlikinglyyt" target="blank"><img src="https://img.shields.io/twitter/follow/unlikinglyyt?logo=twitter&style=for-the-badge" alt="unlikinglyyt" /></a> </p>
 
-- 🌱 I’m currently learning: **Python & MySQL**
+- 🌱 I’m currently learning: **Python & MySQL & LiDAR VR**
 
 - 📫 How to reach me: **ryanjbell100@gmail.com**
 
