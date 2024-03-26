@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **ryanjbell100@gmail.com**
 
-- 📄 Feel free to go on my website: [(https://ryanbellneit.github.io/](https://ryanbellneit.github.io/)
+- 📄 Feel free to go on my website: [https://ryanbellneit.github.io/](https://ryanbellneit.github.io/)
 
 - ⚡ Fun fact: **I have been playing games since I was 10 years old.**
 
